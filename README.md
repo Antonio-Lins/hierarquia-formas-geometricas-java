@@ -6,7 +6,7 @@ Esse README fornecerá uma boa introdução e orientará outros usuários a exec
 Este projeto implementa uma hierarquia de classes para representar formas geométricas (quadrado, retângulo e círculo) com conceitos de orientação a objetos, incluindo interfaces, classes abstratas e herança. O programa principal permite que o usuário crie uma lista de formas geométricas, calcule e exiba o perímetro e a área de cada forma.
 
 ## Estrutura do Projeto
-
+ 
 - **Interface `Forma`**: Define os métodos `calcularPerimetro` e `calcularArea`.
 - **Classe Abstrata `Quadrilatero`**: Representa formas com quatro lados e implementa o cálculo do perímetro.
 - **Classes `Retangulo` e `Quadrado`**: Extendem `Quadrilatero` e implementam o cálculo da área conforme a fórmula de cada tipo.
