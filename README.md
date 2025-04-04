@@ -13,7 +13,7 @@ Este projeto implementa uma hierarquia de classes para representar formas geomé
 - **Classe `Circulo`**: Implementa `Forma` diretamente para representar círculos, com cálculo de perímetro (circunferência) e área.
 
 ## Funcionalidades
-
+ 
 - Permite ao usuário escolher quantas formas criar e especificar o tipo de cada uma (quadrado, retângulo ou círculo).
 - Recebe os dados necessários (lado, base e altura, ou raio) para criar cada forma.
 - Armazena todas as formas em uma lista e exibe as seguintes informações:
